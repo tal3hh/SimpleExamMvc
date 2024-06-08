@@ -1,0 +1,40 @@
+﻿@model CreateLessonDto
+
+<h2 style="text-align: center;">Dərs əlavə et</h2>
+<br />
+
+<div class="form-container">
+    <!-- Validation summary -->
+    <div asp-validation-summary="All" class="text-danger" style="text-align: center; margin-bottom: 15px;"></div>
+
+    <form asp-controller="Lesson" asp-action="Index" method="post">
+        <div class="mb-3">
+            <label class="form-label">Dərsin adı:</label>
+            <input asp-for="@Model.lessonName" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Dərsin kodu:</label>
+            <input asp-for="@Model.Code" type="number" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Müəllim adı:</label>
+            <input asp-for="@Model.teacherName" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Müəllim soyadı:</label>
+            <input asp-for="@Model.teacherSurname" class="form-control" required>
+        </div>
+        <div class="mb-3">
+            <label for="sinif" class="form-label">Sinif:</label>
+            <select asp-for="@Model.Grade" class="form-control" required>
+                <option value="">Seçiniz</option>
+                @for (int i = 1; i <= 11; i++)
+                {
+                    <option value="@i">@i. Sinif</option>
+                }
+            </select>
+        </div>
+
+        <button type="submit" class="btn btn-primary" style="display: block; margin: 0 auto;">Əlavə et</button>
+    </form>
+</div>
