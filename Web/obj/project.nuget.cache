@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lNkCiRNqf5+9mqoBMzsWwDur3PY3m5vuS+aNxtICztwUmC64jLfvpomTa+3MXDcx84Gf1WPsJBO+qAvETAnpAg==",
+  "dgSpecHash": "bg9XRbIXEzC+2tIzUhX2RiY7c8eYtqFP1jVD7aCk9WKWE5o17hzRMy7t0FGOxArvDkchtDAOrwouaeYaiNkUIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\ExamProgram\\Web\\Web.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\Web\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

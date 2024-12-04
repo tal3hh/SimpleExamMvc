@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zdW4mrmhhdjNaN0ROGi46MMM6yEHam+7ZXjHPH+b7VFJHiKBwY01B+y7WxFG5klhPl+uTe/1q3TqTSYi3EOXBg==",
+  "dgSpecHash": "Tt9HlqsBrx7W5+3HnH7mjIrWHMplK+BVsmTDhxlDsRpU8BGV4GkA8VljPuHmdg5Wu0sNu9i/AGsMz5o0o+iDWg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\ExamProgram\\RepositoryLayer\\RepositoryLayer.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\RepositoryLayer\\RepositoryLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

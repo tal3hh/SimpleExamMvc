@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mEJZgPfeT9fTTxiTOwc5xuKMH/KVq5JikZazC04wn8k=",
+  "Hash": "PENZOFD2Z0OXovo8Zdsw0JiQWIhVeZvUzJx2pCdirvs=",
   "Source": "Web",
   "BasePath": "_content/Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Web\\wwwroot",
       "Source": "Web",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ExamProgram\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\ExamProgram\\Web\\wwwroot\\assets\\css\\style2.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\Web\\wwwroot\\assets\\css\\style2.css",
       "SourceId": "Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\ExamProgram\\Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\Web\\wwwroot\\",
       "BasePath": "_content/Web",
       "RelativePath": "assets/css/style2.css",
       "AssetKind": "All",

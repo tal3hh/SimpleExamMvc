@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lBvWi4wLR7HmgiMHr4oxt5y+Z9ikfhrEDfBKfH6j4aJ7yhyaqERcgix4hLY2KRF9NZj92koDEt7qUCs5LUmhLw==",
+  "dgSpecHash": "eRrpX/m/eqeu9O4IGCzxnGV/F2h8Xm0q5lZZ/ZRHbjtt5Ffo87BxiY2g2y3P5Zpd2CvBqwRa0DqphcZeIiAYug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\ExamProgram\\ServiceLayer\\ServiceLayer.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\ServiceLayer\\ServiceLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

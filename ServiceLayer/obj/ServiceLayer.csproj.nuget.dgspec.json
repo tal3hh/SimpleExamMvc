@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\ExamProgram\\ServiceLayer\\ServiceLayer.csproj": {}
+    "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\ServiceLayer\\ServiceLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\ExamProgram\\DomainLayer\\DomainLayer.csproj": {
+    "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\DomainLayer\\DomainLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ExamProgram\\DomainLayer\\DomainLayer.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\DomainLayer\\DomainLayer.csproj",
         "projectName": "DomainLayer",
-        "projectPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\DomainLayer\\DomainLayer.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\DomainLayer\\DomainLayer.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\DomainLayer\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\DomainLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\ExamProgram\\RepositoryLayer\\RepositoryLayer.csproj": {
+    "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\RepositoryLayer\\RepositoryLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ExamProgram\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\RepositoryLayer\\RepositoryLayer.csproj",
         "projectName": "RepositoryLayer",
-        "projectPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\RepositoryLayer\\RepositoryLayer.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\RepositoryLayer\\RepositoryLayer.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\RepositoryLayer\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\RepositoryLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -109,8 +109,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\ExamProgram\\DomainLayer\\DomainLayer.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\DomainLayer\\DomainLayer.csproj"
+              "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\DomainLayer\\DomainLayer.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\DomainLayer\\DomainLayer.csproj"
               }
             }
           }
@@ -144,14 +144,14 @@
         }
       }
     },
-    "C:\\Users\\HP\\Desktop\\ExamProgram\\ServiceLayer\\ServiceLayer.csproj": {
+    "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\ServiceLayer\\ServiceLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\ExamProgram\\ServiceLayer\\ServiceLayer.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\ServiceLayer\\ServiceLayer.csproj",
         "projectName": "ServiceLayer",
-        "projectPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\ServiceLayer\\ServiceLayer.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\ServiceLayer\\ServiceLayer.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\ServiceLayer\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\ServiceLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -173,8 +173,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\HP\\Desktop\\ExamProgram\\RepositoryLayer\\RepositoryLayer.csproj": {
-                "projectPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\RepositoryLayer\\RepositoryLayer.csproj"
+              "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\RepositoryLayer\\RepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\RepositoryLayer\\RepositoryLayer.csproj"
               }
             }
           }

@@ -3164,11 +3164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Desktop\\ExamProgram\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\Web\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3190,8 +3190,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\HP\\Desktop\\ExamProgram\\ServiceLayer\\ServiceLayer.csproj": {
-              "projectPath": "C:\\Users\\HP\\Desktop\\ExamProgram\\ServiceLayer\\ServiceLayer.csproj"
+            "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\HP\\Desktop\\Simple\\SimpleExamMvc\\ServiceLayer\\ServiceLayer.csproj"
             }
           }
         }

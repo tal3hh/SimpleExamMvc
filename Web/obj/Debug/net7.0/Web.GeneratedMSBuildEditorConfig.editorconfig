@@ -9,37 +9,37 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Web
 build_property.RootNamespace = Web
-build_property.ProjectDir = C:\Users\HP\Desktop\ExamProgram\Web\
+build_property.ProjectDir = C:\Users\HP\Desktop\Simple\SimpleExamMvc\Web\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\ExamProgram\Web
+build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\Simple\SimpleExamMvc\Web
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HP/Desktop/ExamProgram/Web/Views/Exam/Index.cshtml]
+[C:/Users/HP/Desktop/Simple/SimpleExamMvc/Web/Views/Exam/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXhhbVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/ExamProgram/Web/Views/Home/Index.cshtml]
+[C:/Users/HP/Desktop/Simple/SimpleExamMvc/Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/ExamProgram/Web/Views/Lesson/Index.cshtml]
+[C:/Users/HP/Desktop/Simple/SimpleExamMvc/Web/Views/Lesson/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVzc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/ExamProgram/Web/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/Simple/SimpleExamMvc/Web/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/ExamProgram/Web/Views/Student/Index.cshtml]
+[C:/Users/HP/Desktop/Simple/SimpleExamMvc/Web/Views/Student/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/ExamProgram/Web/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/Simple/SimpleExamMvc/Web/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/ExamProgram/Web/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/Simple/SimpleExamMvc/Web/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
